@@ -23,3 +23,24 @@ header p {
   font-size: 18px;
   opacity: 0.9;
 }
+section {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+section h2 {
+  margin-top: 0;
+}
+
+section ul {
+  padding-left: 20px;
+}
+
+section li {
+  margin-bottom: 8px;
+}
+section li strong {
+  color: #1f2933;
+}
+
